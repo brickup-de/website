@@ -1,0 +1,85 @@
+baseURL: https://brickup.de/
+title: Brickup
+theme: ["hugo-video", "PaperMod"]
+
+languageCode: de
+defaultContentLanguage: de
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+pagination:
+  pagerSize: 12
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production
+
+  title: Brickup
+  description: "Kreativität, IT und Selbstironie"
+  keywords: [Blog, LEGO, Arduino, Hugo, PaperMod]
+  author: Tobias Buckdahn
+
+  DateFormat: "02.01.2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: true
+  showtoc: false
+  tocopen: false
+
+  assets:
+    disableHLJS: false # code highlighting
+    disableFingerprinting: false # css integrity hashes
+
+  homeInfoParams:
+    Title: "Tobias Buckdahn"
+    Content: >
+      Kreativität, IT und Selbstironie - viel Spaß beim Stöbern :)
+
+  socialIcons:
+    - name: bluesky
+      title: "@brickup-de auf BlueSky"
+      url: "https://bsky.app/profile/brickup-de.bsky.social"
+    - name: flickr
+      title: "@brickbucki auf Flickr"
+      url: "https://www.flickr.com/photos/brickbucki"
+    - name: github
+      title: "@brickup-de auf Github"
+      url: "https://github.com/brickup-de"
+    - name: kofi
+      title: Buy me a Ko-Fi :)
+      url: "https://ko-fi.com"
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 2
+    keys: ["title", "permalink", "summary", "content"]
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search

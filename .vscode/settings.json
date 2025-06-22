@@ -1,0 +1,5 @@
+{
+  "git.countBadge": "all",
+  "git.statusLimit": 0,
+  "git.timeline.showUncommitted": true
+}
