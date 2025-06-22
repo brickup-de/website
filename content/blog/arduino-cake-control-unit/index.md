@@ -1,11 +1,12 @@
 ---
 author: TobiasBuckdahn
+cover:
+  alt: Cake Control Unit
+  image: ccu.jpeg
 date: "2022-05-08T09:03:23+00:00"
 title: Cake Control Unit
 url: /ccu
 ---
-
-[![](ccu.jpeg)](ccu.jpeg)
 
 **Producer:** Aperture Laboratories  
 **Department:** Enrichment Center  
