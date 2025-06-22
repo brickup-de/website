@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - vignette
 cover:
   alt: Crazy Pumpkin
   image: CrazyPumpkin.jpg
 date: "2011-10-08T14:29:08+00:00"
-tag:
+tags:
   - halloween
   - orange
   - rot

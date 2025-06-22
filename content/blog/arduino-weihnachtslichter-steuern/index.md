@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - arduino
 cover:
   alt: Christmas Lights Box
   image: box3.jpg
 date: "2024-11-16T00:16:30+00:00"
-tag:
+tags:
   - braun
   - rot
   - weihnachten

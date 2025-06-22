@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Lego Gitarre
   image: DSCI0012.jpg
 date: "2009-08-01T15:00:57+00:00"
-tag:
+tags:
   - schwarz
   - weiß
 title: Gitarre

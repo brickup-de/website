@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Weihnachtsmann
   image: DSCI0241.jpg
 date: "2010-12-24T11:32:56+00:00"
-tag:
+tags:
   - gelb
   - rot
   - weihnachten

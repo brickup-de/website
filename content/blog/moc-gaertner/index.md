@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Gärtner
   image: Gardener03.jpg
 date: "2012-02-08T13:33:08+00:00"
-tag:
+tags:
   - gelb
   - grün
   - rot

@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - vignette
 cover:
   alt: Schachspiel
   image: IMG_2929.jpg
 date: "2017-06-24T19:15:16+00:00"
-tag:
+tags:
   - schwarz
   - weiß
 title: Schach

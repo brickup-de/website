@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Quell des Lebens
   image: DSCI0003.jpg
 date: "2009-08-01T13:00:21+00:00"
-tag:
+tags:
   - gelb
   - grün
   - orange

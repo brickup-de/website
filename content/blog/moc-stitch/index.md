@@ -1,6 +1,6 @@
 ---
 author: Renate Buckdahn
-category:
+categories:
   - made-by-mom-(m)
   - skulptur
 cover:

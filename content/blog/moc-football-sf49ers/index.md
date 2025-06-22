@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Football
   image: IMG_2447.jpg
 date: "2013-12-24T10:00:12+00:00"
-tag:
+tags:
   - braun
   - rot
   - weiß

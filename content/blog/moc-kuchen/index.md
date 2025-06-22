@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Lego Torte
   image: LegoTorte.jpg
 date: "2014-05-03T13:50:03+00:00"
-tag:
+tags:
   - braun
   - plate-bending
   - weiß

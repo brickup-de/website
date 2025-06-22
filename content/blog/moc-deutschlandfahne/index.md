@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Deutschlandfahne
   image: DSCI0053.jpg
 date: "2010-06-01T12:18:02+00:00"
-tag:
+tags:
   - gelb
   - rot
   - schwarz

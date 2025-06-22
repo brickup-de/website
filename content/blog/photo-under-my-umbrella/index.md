@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - minifigur
 cover:
   alt: Under my umbrella
   image: IMG_0369.jpg
 date: "2011-07-08T13:44:53+00:00"
-tag:
+tags:
   - grau
   - schwarz
   - weiß

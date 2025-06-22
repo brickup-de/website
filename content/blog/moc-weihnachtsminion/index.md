@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Weihnachtsminion
   image: IMG_2470.jpg
 date: "2013-11-17T16:56:35+00:00"
-tag:
+tags:
   - blau
   - gelb
   - rot

@@ -1,5 +1,5 @@
 ---
-category:
+categories:
   - fotografie
 cover:
   alt: Zwei Kakteen in Gewändern

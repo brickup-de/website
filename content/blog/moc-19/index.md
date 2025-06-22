@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Geburtstagskind
   image: Nineteen02.jpg
 date: "2011-09-22T14:25:54+00:00"
-tag:
+tags:
   - blau
   - gelb
   - weiß

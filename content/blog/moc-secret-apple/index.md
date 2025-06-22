@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Secret Apple
   image: DSCI0042.jpg
 date: "2010-09-01T12:21:01+00:00"
-tag:
+tags:
   - gelb
   - rot
 title: Secret Apple

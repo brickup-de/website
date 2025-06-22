@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - roboter
 cover:
   alt: BuckiBug
   image: DSCI0417.jpg
 date: "2011-01-01T12:36:30+00:00"
-tag:
+tags:
   - schwarz
   - weiß
 title: BuckiBug

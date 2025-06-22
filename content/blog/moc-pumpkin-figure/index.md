@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Pumpkin Figure
   image: IMG_2399-2.jpg
 date: "2013-10-30T20:16:24+00:00"
-tag:
+tags:
   - halloween
   - orange
   - plate-bending

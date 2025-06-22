@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Alien
   image: DSCI0461.jpg
 date: "2011-02-01T12:45:22+00:00"
-tag:
+tags:
   - grün
   - weiß
 title: TerraTourist

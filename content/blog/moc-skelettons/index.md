@@ -1,13 +1,13 @@
 ---
 author: Renate Buckdahn
-category:
+categories:
   - made-by-mom-(m)
   - skulptur
 cover:
   alt: Die Skelettons
   image: IMG_2408.jpg
 date: "2016-10-31T20:35:56+00:00"
-tag:
+tags:
   - blau
   - halloween
   - schwarz

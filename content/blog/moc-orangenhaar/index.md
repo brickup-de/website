@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Orangenhaar
   image: DSCI0013.jpg
 date: "2010-10-01T12:27:55+00:00"
-tag:
+tags:
   - blau
   - gelb
   - orange

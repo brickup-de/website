@@ -1,5 +1,5 @@
 ---
-category:
+categories:
   - arduino
   - lego
   - programmierung
@@ -7,7 +7,7 @@ cover:
   alt: LEGO Buzzer mit Arduino
   image: buzzer_photo_4.jpg
 date: "2024-07-24T23:40:55+00:00"
-tag:
+tags:
   - blau
   - gelb
   - grün

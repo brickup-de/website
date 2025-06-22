@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Bricktower
   image: DSCI0006-2.jpg
 date: "2009-08-01T14:00:14+00:00"
-tag:
+tags:
   - gelb
   - orange
   - weiß

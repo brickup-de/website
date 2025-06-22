@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Weißstorch
   image: IMG_2720_bearbeitet.jpg
 date: "2017-08-02T19:42:31+00:00"
-tag:
+tags:
   - rot
   - weiß
 title: Weißstorch

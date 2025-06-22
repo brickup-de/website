@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: IMG_5557
   image: IMG_5557.jpg
 date: "2015-11-24T20:29:44+00:00"
-tag:
+tags:
   - braun
   - orange
 title: Cleveland Browns Football

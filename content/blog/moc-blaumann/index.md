@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Blaumann
   image: DSCI0002.jpg
 date: "2009-08-01T11:35:29+00:00"
-tag:
+tags:
   - blau
   - gelb
   - weiß

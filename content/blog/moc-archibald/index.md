@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - vignette
 cover:
   alt: Spinne
   image: IMG_3635.jpg
 date: "2017-10-31T16:08:50+00:00"
-tag:
+tags:
   - rot
   - schwarz
 title: Happy Halloween!

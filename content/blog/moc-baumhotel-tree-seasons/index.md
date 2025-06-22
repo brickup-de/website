@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: IMG_5889
   image: IMG_5889.jpg
 date: "2018-09-11T20:15:28+00:00"
-tag:
+tags:
   - beige
   - braun
   - grün

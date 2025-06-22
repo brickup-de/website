@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Watch Out
   image: WatchOut.jpg
 date: "2013-08-01T09:21:46+00:00"
-tag:
+tags:
   - plate-bending
   - rot
   - schwarz

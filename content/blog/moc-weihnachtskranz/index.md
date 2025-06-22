@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Weihnachtskranz
   image: DSCI0203.jpg
 date: "2010-12-06T12:30:29+00:00"
-tag:
+tags:
   - grün
   - rot
   - weihnachten

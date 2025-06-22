@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Schlange
   image: DSCI0568.jpg
 date: "2011-04-01T12:48:59+00:00"
-tag:
+tags:
   - rot
   - schwarz
   - tier

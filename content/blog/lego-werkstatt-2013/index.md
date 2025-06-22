@@ -1,5 +1,5 @@
 ---
-category:
+categories:
   - lego
 cover:
   alt: Legozimmer

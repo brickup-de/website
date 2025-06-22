@@ -1,5 +1,5 @@
 ---
-category:
+categories:
   - lego
   - programmierung
   - roboter
@@ -7,7 +7,7 @@ cover:
   alt: Screenshot-20230801210254-1910x1075_copy
   image: Screenshot-20230801210254-1910x1075_copy.jpg
 date: "2023-08-01T19:21:06+00:00"
-tag:
+tags:
   - schwarz
   - weiß
 title: Glockenspieler

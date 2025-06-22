@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Red Eye
   image: RedEye.jpg
 date: "2011-09-08T13:53:45+00:00"
-tag:
+tags:
   - brick-bending
   - plate-bending
   - rot

@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Brickbunny
   image: 8603256332_f77258bbc1_o.jpg
 date: "2013-03-30T16:24:44+00:00"
-tag:
+tags:
   - beige
   - ostern
   - tier

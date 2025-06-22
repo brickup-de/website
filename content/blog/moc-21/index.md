@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - legebild
 cover:
   alt: "21"
   image: IMG_2387-small.jpg
 date: "2013-09-22T15:47:01+00:00"
-tag:
+tags:
   - grau
   - plate-bending
   - rot

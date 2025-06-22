@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - roboter
 cover:
   alt: MobilBot
   image: DSCI0068.jpg
 date: "2010-10-01T12:23:27+00:00"
-tag:
+tags:
   - grau
   - schwarz
   - weiß

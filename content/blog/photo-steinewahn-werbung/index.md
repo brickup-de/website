@@ -1,5 +1,5 @@
 ---
-category:
+categories:
   - minifigur
   - vignette
 cover:

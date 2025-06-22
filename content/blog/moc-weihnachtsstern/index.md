@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Weihnachtsstern
   image: IMG_25591.jpg
 date: "2013-12-11T19:13:07+00:00"
-tag:
+tags:
   - brick-bending
   - gelb
   - plate-bending

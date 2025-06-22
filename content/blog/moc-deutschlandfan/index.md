@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: WM Deutschlandfan
   image: DSCI0146.jpg
 date: "2010-06-01T11:51:44+00:00"
-tag:
+tags:
   - gelb
   - rot
   - schwarz

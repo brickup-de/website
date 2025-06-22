@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - minifigur
 cover:
   alt: Gänsemarsch
   image: IMG_0248.jpg
 date: "2011-07-08T13:02:29+00:00"
-tag:
+tags:
   - orange
   - rot
 title: Minifiguren auf dem Bau

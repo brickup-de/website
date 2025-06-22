@@ -1,12 +1,12 @@
 ---
-category:
+categories:
   - fotografie
   - vignette
 cover:
   alt: Kapsel_06
   image: Kapsel_06.jpg
 date: "2021-04-01T13:40:15+00:00"
-tag:
+tags:
   - gelb
   - schwarz
 title: Kapseln

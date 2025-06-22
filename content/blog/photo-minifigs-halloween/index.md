@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - minifigur
 cover:
   alt: Jester im Wald
   image: IMG_3564.jpg
 date: "2017-10-22T17:56:15+00:00"
-tag:
+tags:
   - lila
   - rot
 title: Halloween-Minifigs

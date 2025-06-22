@@ -1,5 +1,5 @@
 ---
-category:
+categories:
   - vignette
 cover:
   alt: Bricking Safaria

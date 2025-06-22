@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: Jester
   image: 2011_08_07_0543.jpg
 date: "2011-08-08T13:51:00+00:00"
-tag:
+tags:
   - gelb
   - rot
   - weiß

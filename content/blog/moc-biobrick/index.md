@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - skulptur
 cover:
   alt: BioBrick
   image: DSCI0001.jpg
 date: "2009-08-01T12:00:32+00:00"
-tag:
+tags:
   - grün
   - weiß
 title: BioBrick

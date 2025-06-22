@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - vignette
 cover:
   alt: Das Fundstück
   image: DSCI0486.jpg
 date: "2011-02-01T12:41:37+00:00"
-tag:
+tags:
   - braun
   - weiß
 title: Das Fundstück

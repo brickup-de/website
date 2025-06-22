@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - vignette
 cover:
   alt: Schwarzer Kater
   image: SchwarzerKater01.jpg
 date: "2017-01-19T19:15:43+00:00"
-tag:
+tags:
   - schwarz
   - weiß
 title: Schwarzer Kater

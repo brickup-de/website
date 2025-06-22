@@ -1,11 +1,11 @@
 ---
-category:
+categories:
   - legebild
 cover:
   alt: Strahlung
   image: IMG_2200.jpg
 date: "2013-07-01T10:02:12+00:00"
-tag:
+tags:
   - gelb
   - plate-bending
   - rot
