@@ -42,9 +42,28 @@ body {
 .post-single .post-title {
   color: var(--content);
 }
-.post-content p > img {
+.post-content p > img,
+.post-content p > a.lightbox-image img {
+  display: block;
   margin: 0 auto;
+  text-align: center;
 }
+.post-content p img:first-child + em:last-child,
+.post-content p a:first-child + em:last-child {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  color: var(--secondary);
+}
+.post-content p:has(a.lightbox-image + a.lightbox-image),
+.post-content p:has(img + img) {
+  display: flex;
+  gap: var(--gap);
+}
+a.lightbox-image {
+  box-shadow: none;
+}
+
 .share-buttons,
 .paginav {
   background: initial;
