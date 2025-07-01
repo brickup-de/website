@@ -20,7 +20,8 @@ url: /2024/arduino-lego-buzzer
 
 In den vergangenen Monaten habe ich ein Buzzersystem mit Arduino und LEGO gebaut. [Coding und mehr](https://github.com/brickup-de/wired_buzzers) finden sich auf Github und eine kurze Demonstration [hier auf Youtube](https://www.youtube.com/watch?v=WlllEnodv78):
 
-[![](Screenshot_20240725_005902.png)](https://youtu.be/WlllEnodv78) Youtube-Video mit einer Demo
+[![](Screenshot_20240725_005902.png)](https://youtu.be/WlllEnodv78)
+_Youtube-Video mit einer Demo_
 
 ## Die Buzzer
 

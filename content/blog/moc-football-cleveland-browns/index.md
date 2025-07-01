@@ -14,7 +14,7 @@ url: /2015/cleveland-browns-football
 
 ![IMG_5557](IMG_5557.jpg)Seit meinem [ersten Football-Modell](/2013/football/) sind nun schon bald zwei Jahre ins Land gegangen. In dieser Zeit habe ich des Öfteren Fragen zu dem Modell zugeschickt bekommen. Eine besondere Anfrage erreichte mich im Mai diesen Jahres. Eine Schweizerin war auf der Suche nach einem Hochzeitsgeschenk und ist dabei auf eben dieses Modell von mir gestoßen.
 
-![](IMG_5563.jpg)
+[![](IMG_5563.jpg)](IMG_5563.jpg)
 
 Nach einem regen Mailwechsel hatte sie mir geschildert, wie sie sich einen passenden Football vorstellte. Er sollte das Logo der Cleveland Browns tragen, da der Beschenkte dem Team sehr verbunden ist. In den folgenden Monaten habe ich dann diverse Abende geplant und gebaut, um diesen Wunsch wahr werden zu lassen.
 

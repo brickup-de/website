@@ -13,9 +13,11 @@ title: Baumhotel "Tree Seasons"
 url: /2018/baumhotel-tree-seasons
 ---
 
-[![](IMG_6129.jpg)](IMG_6129.jpg)**Warum alleine bauen wenn es auch zu zweit geht?** Es war beim [6\. Berliner SteineWAHN!](https://www.steinewahn.de/) als Jana mit ihrer Idee für ein großes Lego-Modell auf mich zu kam. Sie hatte im Urlaub dieses schicke Holzbauwerk in einem Schaufenster entdeckt und wollte es gerne als MOC umsetzen.
+[![](IMG_6129.jpg)](IMG_6129.jpg)
+**Warum alleine bauen wenn es auch zu zweit geht?** Es war beim [6\. Berliner SteineWAHN!](https://www.steinewahn.de/) als Jana mit ihrer Idee für ein großes Lego-Modell auf mich zu kam. Sie hatte im Urlaub dieses schicke Holzbauwerk in einem Schaufenster entdeckt und wollte es gerne als MOC umsetzen.
 
-[![](IMG-20170827-WA0010.jpg)](IMG-20170827-WA0010.jpg) Uns war direkt klar, dass wir uns beim Bauen wunderbar ergänzen könnten: Ich hatte bereits Erfahrungen mit dem Bau großer/natürlicher/stabiler Strukturen in Lego, und Jana würde diese mit Minifiguren und Dekorationen zum Leben erwecken - wie sie es schon [bei ihrem](http://images.brickup.de/steinewahn/gallery/mocs-1/DSC2394_DxO.jpg) [Schul-Modell](http://images.brickup.de/steinewahn/gallery/mocs-1/DSC3112_DxO.jpg) getan hatte. So kam mein erstes Gemeinschaftsprojekt ins Rollen.
+[![](IMG-20170827-WA0010.jpg)](IMG-20170827-WA0010.jpg)
+Uns war direkt klar, dass wir uns beim Bauen wunderbar ergänzen könnten: Ich hatte bereits Erfahrungen mit dem Bau großer/natürlicher/stabiler Strukturen in Lego, und Jana würde diese mit Minifiguren und Dekorationen zum Leben erwecken - wie sie es schon [bei ihrem](http://images.brickup.de/steinewahn/gallery/mocs-1/DSC2394_DxO.jpg) [Schul-Modell](http://images.brickup.de/steinewahn/gallery/mocs-1/DSC3112_DxO.jpg) getan hatte. So kam mein erstes Gemeinschaftsprojekt ins Rollen.
 
 [![](IMG-20180217-WA0006-e1537093741155.jpg)](IMG-20180217-WA0006-e1537093741155.jpg)
 
@@ -63,7 +65,8 @@ Auf der ersten Etage des Baumes folgte eine kleine Rezeption und mehrere Hängem
 
 Unser ganzer Stolz folgt aber in/an/über den beiden letzten Stamm-Etagen. Eine voluminöse Baumkrone umschließt mehrere Äste, die jeweils in eine Plattform münden.
 
-[![](IMG_5885.jpg)](IMG_5885.jpg) Auf diesen Plattformen ist ordentlich was los! Nachfolgend einige Bilder - meine persönlichen Favoriten sind das Biologielabor und das Singvogel-Tonstudio - nachfolgend als erstes abgebildet. Im Inneren des Stammes gibt es auch noch eine Wendeltreppe bis ganz nach oben. Diese hat aber eher ideelen Wert, da man sie leider kaum bis gar nicht sieht ;-)
+[![](IMG_5885.jpg)](IMG_5885.jpg)
+_Auf diesen Plattformen ist ordentlich was los! Nachfolgend einige Bilder - meine persönlichen Favoriten sind das Biologielabor und das Singvogel-Tonstudio - nachfolgend als erstes abgebildet. Im Inneren des Stammes gibt es auch noch eine Wendeltreppe bis ganz nach oben. Diese hat aber eher ideelen Wert, da man sie leider kaum bis gar nicht sieht ;-)_
 
 [![](IMG_5870.jpg)](IMG_5870.jpg)
 

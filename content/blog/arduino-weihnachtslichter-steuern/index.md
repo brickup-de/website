@@ -19,6 +19,8 @@ Alle Jahre wieder dekorieren meine Eltern ihren Garten mit seeehr vielen Lichter
 
 Nach vielem Grübeln, Löten, Sägen, Programmieren und Debuggen entstand schließlich folgendes:
 
+{{< video src="demo.mp4">}}
+
 **Die elektronischen Komponenten** für dieses Projekt sind nachfolgend aufgelistet. Ich habe sie allesamt bei [Funduinoshop.de](https://funduinoshop.com/) gefunden und beschafft, sie sind aber auch in anderen Shops weit verbreitet.
 
 - Arduino UNO _(bzw. eine günstigere Drittanbieterversion)_
@@ -37,11 +39,13 @@ Acht **digitale Pins** des Arduino _(D2-D9)_ sind mit je einem Relais verbunden.
 
 Drei **analoge Pins** sind mit der LED-Matrix verbunden _(A1=DIN, A2=CS, A3=CLK)_. Zwei weitere sind für die Vorwärts- und Rückwärts-Taste im Einsatz _(A4/A5)_. An dem verbleibenden analogen Pin _(A0)_ sind acht Taster per "Widerstandsleiter" angeschlossen. Dadurch kann der gedrückte Taster über die anliegende Spannung identifiziert werden - siehe nachfolgendes Video. Es kann aber stets nur ein Taster zeitgleich gedrückt werden.
 
+{{< video src="resistor-ladder.mp4">}}
+
 **Das Gehäuse** besteht aus zwei Teilen mit DIN-A5-Sperrholzplatten als Grundfläche. Diese bekommen jeweils einen Rahmen aus passend zugesägten Leisten (20x10mm bzw. 20x30mm Querschnitt). Am schwierigsten war es, ein Rechteck für die LED-Matrix mit dem Dremel auszufräsen. Einige Löcher musste ich zudem wieder zuspachteln, da ich ursprünglich mit mehr Tasten geplant hatte.
 
-![](box2.jpg)
+[![](box2.jpg)](box2.jpg)
 
-![](box1.jpg)
+[![](box1.jpg)](box1.jpg)
 
 **Die Programmierung** geschieht in der Sprache C++ und ist in mehrere Module/Klassen aufgeteilt.
 
@@ -56,8 +60,8 @@ Die **Header-Dateien** mit Endung _.h_ bilden die Grundlage für jedes Modul. Hi
 
 Die **Quellcode-Dateien** mit Endung _.cpp_(C++) enthalten das eigentliche Coding je Modul. Die Unterteilung erfolgt entsprechend der Struktur aus der zugehörigen Header-Datei.
 
-![](code1.png)
+[![](code1.png)](code1.png)
 
-![](code2.png)
+[![](code2.png)](code2.png)
 
 Hier zwei Screenshots aus _Display.h_ und _Display.cpp_ als Beispiele. Das vollständige Coding kann [hier auf Github](https://github.com/brickup-de/arduino-light-controller) eingesehen und heruntergeladen werden.

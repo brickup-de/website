@@ -8,7 +8,7 @@ title: Spybotron
 
 günstige Hardware:
 
-![](cover.jpg)
+[![](cover.jpg)](cover.jpg)
 
 Lässt sich Programmieren, analog zu Nxt via Bricx Command Center - darüber entdeckt.
 
