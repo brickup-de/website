@@ -1,5 +1,5 @@
 baseURL: https://brickup.de/
-title: Brickup
+title: brickup
 theme: ["hugo-video", "PaperMod"]
 
 languageCode: de
@@ -15,13 +15,29 @@ minify:
   minifyOutput: true
 
 pagination:
-  pagerSize: 12
+  pagerSize: 10
 
 outputs:
   home:
     - HTML
     - RSS
     - JSON
+
+taxonomies:
+  category: categories
+  tag: tags
+
+menu:
+  main:
+    - name: Kategorien
+      url: categories/
+      weight: 10
+    - name: Tags
+      url: tags/
+      weight: 20
+    - name: Suche
+      url: search/
+      weight: 90
 
 params:
   env: production
@@ -59,6 +75,11 @@ params:
     Title: "Tobias Buckdahn"
     Content: >
       Kreativität, IT und Selbstironie - viel Spaß beim Stöbern :)
+
+  label:
+    text: "brickup"
+    icon: "favicon-32x32.png"
+    iconHeight: "32"
 
   socialIcons:
     - name: bluesky

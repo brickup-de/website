@@ -1,0 +1,75 @@
+:root {
+  --theme: rgb(255, 165, 49);
+}
+.dark {
+  --theme: rgb(155, 92, 10);
+}
+
+body {
+  background: var(--theme) !important;
+}
+
+.header {
+  background: var(--entry);
+}
+.logo a {
+  color: var(--primary);
+}
+
+.main {
+  background: var(--entry);
+  border-radius: var(--radius);
+  margin-top: var(--gap);
+  padding-top: 5px;
+}
+.list .main {
+  background: initial;
+  border-radius: 0;
+}
+.first-entry {
+  background: var(--entry);
+  border-radius: var(--radius);
+  min-height: 200px;
+  padding: var(--gap);
+  text-align: center;
+}
+
+.page-header > * {
+  color: var(--content);
+  text-align: center;
+}
+
+.post-single .post-title {
+  color: var(--content);
+}
+.post-content p > img {
+  margin: 0 auto;
+}
+.share-buttons,
+.paginav {
+  background: initial;
+  border: initial;
+}
+.post-tags {
+  align-items: center;
+  justify-content: center;
+}
+
+.first-entry h1 {
+  color: var(--content);
+}
+
+.terms-tags a {
+  background: var(--entry);
+}
+.top-link {
+  background: var(--entry);
+}
+
+#searchbox input {
+  background: var(--entry);
+}
+
+.footer {
+  color: var(--primary);
+}
