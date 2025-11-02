@@ -82,6 +82,9 @@ params:
     iconHeight: "32"
 
   socialIcons:
+    - name: brickcamp
+      title: "BrickCamp, ein Nachschlagewerk für LEGO® Bautechniken"
+      url: "https://brick.camp/de"
     - name: bluesky
       title: "@brickup-de auf BlueSky"
       url: "https://bsky.app/profile/brickup-de.bsky.social"
