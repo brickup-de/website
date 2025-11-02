@@ -1,0 +1,10 @@
+<ul class="terms-tags">
+  {{- range .Alphabetical -}}
+  {{- $count := .Count }}
+  {{- with .Page }}
+  <li>
+    <a href="{{ .Permalink }}">{{ .Name }} <sup><strong><sup>{{ $count }}</sup></strong></sup> </a>
+  </li>
+  {{- end }}
+  {{- end }}
+</ul>

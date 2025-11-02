@@ -1,0 +1,18 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>Kategorien</h1>
+</header>
+{{- partial "term_list.html" site.Taxonomies.categories -}}
+
+<header class="page-header">
+  <h1>Tags</h1>
+</header>
+{{- partial "term_list.html" site.Taxonomies.tags -}}
+
+<header class="page-header">
+  <h1>Autoren</h1>
+</header>
+{{- partial "term_list.html" site.Taxonomies.author -}}
+
+{{- end }}
