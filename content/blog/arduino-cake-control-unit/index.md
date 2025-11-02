@@ -1,5 +1,5 @@
 ---
-author: TobiasBuckdahn
+author: Tobias Buckdahn
 cover:
   alt: Cake Control Unit
   image: ccu.jpeg

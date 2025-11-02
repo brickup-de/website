@@ -24,11 +24,15 @@ outputs:
     - JSON
 
 taxonomies:
+  author: author
   category: categories
   tag: tags
 
 menu:
   main:
+    - name: Autor
+      url: author/
+      weight: 5
     - name: Kategorien
       url: categories/
       weight: 10
