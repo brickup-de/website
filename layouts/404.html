@@ -1,0 +1,14 @@
+{{- define "main" }}
+<script>
+  const archive_url = '{{ absURL "/archiv" }}';
+
+  var url = window.location.href;
+  if (url.includes('/categories/') 
+   || url.includes('/category/')
+   || url.includes('/tags/')
+   || url.includes('/tag/')) {
+    window.location.href = archive_url;
+  }
+</script>
+<div class="not-found">404</div>
+{{- end }}{{/* end main */ -}}
