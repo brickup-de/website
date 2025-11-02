@@ -86,8 +86,12 @@ a.lightbox-image {
   background: var(--entry);
   text-transform: capitalize;
 }
+
 .top-link {
   background: var(--entry);
+  border: 2px solid;
+  bottom: 30px;
+  padding: 10px;
 }
 
 #searchbox input {
