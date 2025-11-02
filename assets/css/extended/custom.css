@@ -93,3 +93,7 @@ a.lightbox-image {
 .footer {
   color: var(--primary);
 }
+
+img[height] {
+  height: auto;
+}
