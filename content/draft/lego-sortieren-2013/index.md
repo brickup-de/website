@@ -3,6 +3,7 @@ author: Tobias Buckdahn
 categories:
   - lego
 date: "2013-11-13T18:40:58+00:00"
+draft: "true"
 title: Sortieren
 url: /2013/sortieren
 ---
@@ -52,7 +53,6 @@ Ich möchte euch im Folgenden zeigen, wie ich versuche, den Nadel im Heuhaufen I
 
 ### Die ersten Schritte
 
-Am Anfang Chaos
 [![Überblick über das mein Steine-Paradies](IMG_20783.jpg)](IMG_20783.jpg)
 
 Vermutlich ist für jeden Bastler und Künstler die eigene Werkstatt der heiligste Ort überhaupt. Bei mir ist das nicht anders. Deshalb habe ich weder Kosten noch Mühen gescheut, um den Raum für mich optimal zu gestalten. Mir ist es wichtig, dass ich genau weiß, wo welche Steine und Bauelemente zu finden sind. Absolut nichts ist frustrierender, als eine Idee zu verwerfen, weil man ein paar Steinchen nicht findet - obwohl man sicher ist, sie zu besitzen.
@@ -60,5 +60,4 @@ Vermutlich ist für jeden Bastler und Künstler die eigene Werkstatt der heiligs
 Um euch meinen Sortierungsansatz ohne lange Romane nahe zu bringen, habe ich die beiden folgenden Fotos mit je einer beschrifteten Version verlinkt.
 
 [![Legoschrank auf der linken Raumseite](IMG_2078_1.jpg)](IMG_2078_1.jpg)
-
 [![Legowand auf der rechten Raumseite](IMG_2078_2.jpg)](IMG_2078_2.jpg)
