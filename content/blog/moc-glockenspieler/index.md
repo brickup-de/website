@@ -80,7 +80,7 @@ _"Self-Playing LEGO Xylophone" - by Kevin Darke_
 [![](PXL_20220313_201159566_copy.jpg)](PXL_20220313_201159566_copy.jpg)
 _Idee für ein Murmel-Reservoir je Klangstab_
 
-Hier ein Beispiel [aus](https://www.youtube.com/watch?v=S1r2nod1NoI) [d](https://www.youtube.com/watch?v=S1r2nod1NoI) [e](https://www.youtube.com/watch?v=S1r2nod1NoI) [m](https://www.youtube.com/watch?v=S1r2nod1NoI) [Video "legophone" von hugolinvh](https://www.youtube.com/watch?v=S1r2nod1NoI), wie so eine Konstruktion grob aussehen könnte:
+Hier ein Beispiel [aus dem Video "legophone" von hugolinvh](https://www.youtube.com/watch?v=S1r2nod1NoI), wie so eine Konstruktion grob aussehen könnte:
 
 [![](Screenshot-20230717215156-1029x540-1.png)](https://www.youtube.com/watch?v=S1r2nod1NoI)
 _legophone by hugolinvh_
