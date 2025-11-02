@@ -93,7 +93,7 @@ params:
       url: "https://github.com/brickup-de"
     - name: kofi
       title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com"
+      url: "https://ko-fi.com/brickup"
 
   fuseOpts:
     isCaseSensitive: false
