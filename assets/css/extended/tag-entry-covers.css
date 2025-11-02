@@ -1,0 +1,33 @@
+/* Based on: https://github.com/arashsm79/hugo-PaperMod-Mod */
+.tag-entry {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 5px 0px;
+  padding: 12px;
+}
+
+@media (min-width: 500px) {
+  .tag-entry {
+    grid-template-columns: 100px auto;
+    grid-gap: 0px 10px;
+  }
+}
+
+.tag-entry .entry-cover {
+  display: block;
+  max-width: fit-content;
+  margin: auto;
+  grid-row: span 3;
+}
+
+.tag-entry .entry-header {
+  align-self: center;
+}
+
+.tag-entry .entry-content {
+  align-self: center;
+}
+
+.tag-entry .entry-footer {
+  align-self: end;
+}
