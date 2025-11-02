@@ -88,12 +88,12 @@ params:
     - name: bluesky
       title: "@brickup-de auf BlueSky"
       url: "https://bsky.app/profile/brickup-de.bsky.social"
-    - name: flickr
-      title: "@brickbucki auf Flickr"
-      url: "https://www.flickr.com/photos/brickbucki"
     - name: github
       title: "@brickup-de auf Github"
       url: "https://github.com/brickup-de"
+    - name: flickr
+      title: "@brickbucki auf Flickr"
+      url: "https://www.flickr.com/photos/brickbucki"
     - name: kofi
       title: Buy me a Ko-Fi :)
       url: "https://ko-fi.com/brickup"
