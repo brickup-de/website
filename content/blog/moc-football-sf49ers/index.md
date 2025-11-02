@@ -1,5 +1,6 @@
 ---
 categories:
+  - lego
   - skulptur
 cover:
   alt: Football

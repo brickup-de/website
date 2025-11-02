@@ -1,5 +1,7 @@
 ---
 categories:
+  - fotografie
+  - lego
   - minifigur
 cover:
   alt: Under my umbrella

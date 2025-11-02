@@ -1,5 +1,6 @@
 ---
 categories:
+  - lego
   - roboter
 cover:
   alt: MobilBot

@@ -1,6 +1,7 @@
 ---
 categories:
   - fotografie
+  - lego
   - vignette
 cover:
   alt: Kapsel_06

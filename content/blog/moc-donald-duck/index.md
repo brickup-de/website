@@ -1,6 +1,7 @@
 ---
 author: Renate Buckdahn
 categories:
+  - lego
   - made-by-mom-(m)
   - skulptur
 cover:

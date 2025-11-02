@@ -1,5 +1,6 @@
 ---
 categories:
+  - lego
   - minifigur
   - vignette
 cover:

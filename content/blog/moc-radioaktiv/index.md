@@ -1,5 +1,6 @@
 ---
 categories:
+  - lego
   - legebild
 cover:
   alt: Strahlung

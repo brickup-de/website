@@ -1,6 +1,7 @@
 ---
 categories:
   - lego
+  - roboter
 date: "2024-09-10T18:38:21+00:00"
 draft: "true"
 title: Spybotron

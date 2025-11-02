@@ -1,7 +1,9 @@
 ---
 categories:
+  - lego
   - minifigur
   - vignette
+  - fotografie
 cover:
   alt: Kunterbunte Köpfe
   image: KunterbunteKoepfe.jpg

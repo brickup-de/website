@@ -1,5 +1,6 @@
 ---
 categories:
+  - lego
   - minifigur
 cover:
   alt: Jester im Wald

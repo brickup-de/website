@@ -1,6 +1,7 @@
 ---
 categories:
   - legebild
+  - lego
   - vignette
 cover:
   alt: Suchspiel 2x4-Stein

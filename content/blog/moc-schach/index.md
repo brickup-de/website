@@ -1,5 +1,6 @@
 ---
 categories:
+  - lego
   - vignette
 cover:
   alt: Schachspiel
