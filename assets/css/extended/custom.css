@@ -78,6 +78,10 @@ a.lightbox-image {
   color: var(--content);
 }
 
+.terms-tags{
+  text-align: center;
+}
+
 .terms-tags a {
   background: var(--entry);
   text-transform: capitalize;
