@@ -1,6 +1,6 @@
 {{- define "main" }}
 <script>
-  const archive_url = '{{ absURL "/archiv" }}';
+  const archive_url = '{{ absLangURL "archiv" }}';
 
   var url = window.location.href;
   if (url.includes('/categories/') 
