@@ -1,17 +1,22 @@
 ---
 title: Impressum
 url: /impressum
-hidemeta: true
+aliases:
+  - /contact
+  - /kontakt
 ShowBreadCrumbs: false
+params:
+  hidemeta: true
 ---
 
 Der folgende Text ist zur rechtlichen Absicherung des Webseitenautors nötig. Er ist in vollem Umfang für diese Webseite und damit verbundene Fragen/Inhalte gültig. Der Webseitenautor behält sich das Recht vor, den folgenden Text jederzeit unangekündigt zu überarbeiten.
 
 ### Autor
 
-**Tobias Buckdahn**
-
-infign0r3o@bri3r0ngickup.de
+**Tobias Buckdahn**  
+{{< hidden "UmVpY2"   "hzc3Ry" "LiA5MQ==" >}}  
+{{< hidden "MTQwNTI"  "gQmV"   "ybGlu" >}}  
+{{< hidden "aW5mb0Bi" "cmlja3" "VwLmRl" >}}
 
 Brickup.de ist ein Hobby meinerseits und wird nicht geschäftlich betrieben.
 
