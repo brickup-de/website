@@ -80,6 +80,7 @@ a.lightbox-image {
 
 .terms-tags a {
   background: var(--entry);
+  text-transform: capitalize;
 }
 .top-link {
   background: var(--entry);
