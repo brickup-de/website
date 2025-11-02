@@ -1,3 +1,29 @@
+<footer class="footer">
+  <span>
+    &copy; {{ now.Year }} <a href="{{ `` | absLangURL }}">{{ site.Params.author }}</a>
+  </span>
+
+  {{- print " · "}}
+
+  <span>
+    <a href="{{ absURL `/impressum` }}">Impressum</a>
+  </span>
+
+  {{- print " · "}}
+
+  <span>
+    <a href="{{ absURL `/datenschutz` }}">Datenschutz</a>
+  </span>
+
+  <br>
+
+  <span>
+    Made with
+    <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+    <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
+  </span>
+</footer>
+
 {{- with resources.Get "js/lightbox.js" -}}
 <script type="text/javascript" src="{{ .RelPermalink }}"></script>
 {{- end -}}

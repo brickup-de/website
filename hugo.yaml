@@ -69,6 +69,7 @@ params:
   comments: false
   hidemeta: false
   hideSummary: true
+  hideFooter: true
   showtoc: true
   tocopen: false
 
