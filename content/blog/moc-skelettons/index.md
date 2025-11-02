@@ -12,7 +12,7 @@ tags:
   - halloween
   - schwarz
   - weiß
-title: Die Skelettons (M)
+title: Die Skelettons
 url: /2016/skelettons
 ---
 

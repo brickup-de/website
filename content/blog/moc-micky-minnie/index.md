@@ -7,7 +7,7 @@ cover:
   alt: Micky und Minnie
   image: IMG_3332.jpg
 date: "2017-10-06T13:59:34+00:00"
-title: Micky & Minnie (M)
+title: Micky & Minnie
 url: /2017/micky-minnie-maus
 ---
 
