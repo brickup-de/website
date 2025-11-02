@@ -97,3 +97,17 @@ a.lightbox-image {
 img[height] {
   height: auto;
 }
+
+.toc summary {
+  padding-left: 3px;
+}
+
+.toc li {
+  line-height: 1.2;
+  padding-bottom: 0.4em;
+}
+
+.toc li a {
+  position: relative;
+  top: 1px;
+}
