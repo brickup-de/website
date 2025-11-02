@@ -15,9 +15,8 @@ title: Deutschlandfahne
 url: /2010/dfahne
 ---
 
-[![Deutschlandfahne](DSCI0051.jpg)](DSCI0051.jpg)
 
 Eine Legoskulptur zur Fußball-Weltmeisterschaft 2010.
 
 [![Deutschlandfahne](DSCI0054.jpg)](DSCI0054.jpg)
-[![Deutschlandfahne](DSCI0053.jpg)](DSCI0053.jpg)
+[![Deutschlandfahne](DSCI0051.jpg)](DSCI0051.jpg)

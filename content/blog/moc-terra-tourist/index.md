@@ -17,9 +17,6 @@ url: /2011/terratourist
 Diesen kleinen grünen Freund habe ich schon vor einer ganzen Weile gebaut.
 
 [![Alien](DSCI0431.jpg)](DSCI0431.jpg)
-
-[![Alien](DSCI0461.jpg)](DSCI0461.jpg)
+[![Alien](DSCI0468.jpg)](DSCI0468.jpg)
 
 [![Alien](DSCI0464.jpg)](DSCI0464.jpg)
-
-[![Alien](DSCI0468.jpg)](DSCI0468.jpg)

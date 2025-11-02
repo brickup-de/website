@@ -16,10 +16,7 @@ title: Orangenhaar
 url: /2010/orangenhaar
 ---
 
-[![Orangenhaar](DSCI0013.jpg)](DSCI0013.jpg)
-
 Eine meiner früheren Skulpturen. Der Vollständigkeit halber habe ich sie ebenfalls hier hochgeladen.
 
 [![Orangenhaar](DSCI0017.jpg)](DSCI0017.jpg)
-
 [![Orangenhaar](DSCI0019.jpg)](DSCI0019.jpg)

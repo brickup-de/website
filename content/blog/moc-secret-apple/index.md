@@ -30,16 +30,16 @@ _**Steine einsparen:** Wer nicht alle benötigten Teile aufbringen kann, der sol
 
 ### Geheimfach öffnen
 
-Schritt 1: Verschlusskappe abnehmen
+**Schritt 1:** Verschlusskappe abnehmen
 [![erster Schritt](DSCI0036.jpg)](DSCI0036.jpg)
 
-Schritt 2: Knauf drehen
+**Schritt 2:** Knauf drehen
 [![zweiter Schritt](DSCI0048.jpg)](DSCI0048.jpg)
 
-Schritt 3: Geheimfach von unten herausdrücken
+**Schritt 3:** Geheimfach von unten herausdrücken
 [![dritter Schritt](DSCI0039.jpg)](DSCI0039.jpg)
 
-Schritt 4: Fach öffnen
+**Schritt 4:** Fach öffnen
 [![vierter Schritt](DSCI0042.jpg)](DSCI0042.jpg)
 
 [![Bestandteile der Legoskulptur](DSCI0045.jpg)](DSCI0045.jpg)

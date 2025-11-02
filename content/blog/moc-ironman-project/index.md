@@ -14,8 +14,6 @@ title: Projekt Ironman
 url: /2012/ironman
 ---
 
-[![rechter Arm des Anzugs](6785928616_174967e7a0_o.jpg)](6785928616_174967e7a0_o.jpg)
-
 **"Manchmal muss man rennen bevor man laufen kann"** \- Irgendwie passt dieser Satz zu dem, was ich mir hier vorgenommen hatte. In mir kam immer wieder die Idee auf, einen tragbaren Ironman-Anzug bauen ... und zwar aus Lego. Ich hatte so etwas in der Art noch nie vorher gebaut. Aber das es eine coole Vorstellung war, es zu besitzen, brauche ich glaube ich nicht zu erwähnen. Die Entwurfs- und Bauphasen haben entsprechend viel Spaß gemacht.
 
 [![Beinkontruktion Planung](WIP-Lego-Ironman-Suit-leg.jpg)](WIP-Lego-Ironman-Suit-leg.jpg)

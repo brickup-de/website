@@ -43,7 +43,7 @@ Für die **Konstruktion** der Giraffe hatte ich mir überlegt, die Beine mit sen
 
 Bis dato hatten die zierlichen Plastik-Techniksteine die massiven Beine aufrecht halten können. **Die hinteren Oberschenkel** allerdings überforderten diese Bautechnik maßlos. Auch ohne das Zusatzgewicht des Oberkörpers bogen sich die Hinterbeine gefährlich nach vorne durch. Die Physik tanzte meinem Bauvorhaben auf der Nase herum, also blieb mir nichts anderes übrig, als meine Vorgehensweise zu überdenken.
 
-### [![alle Beine der Giraffenskulptur](IMG_2222.jpg)](IMG_2222.jpg)
+[![alle Beine der Giraffenskulptur](IMG_2222.jpg)](IMG_2222.jpg)
 
 ### Der zweite Versuch
 
@@ -67,7 +67,7 @@ Im Februar 2014 begann schließlich die nächste Bauphase der Skulptur: Der Ober
 
 Einen weiteren Monat später kam ein 3 Kilogramm schwerer Hals hinzu. Doch noch immer war der Steinehunger des Modells nicht gestillt.
 
-### ![Giraffenhals auf halber Höhe](IMG_0079.jpg)
+[![Giraffenhals auf halber Höhe](IMG_0079.jpg)](IMG_0079.jpg)
 
 ### Der Kopf
 

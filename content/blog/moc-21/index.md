@@ -16,6 +16,4 @@ title: "21"
 url: /2013/einundzwanzig
 ---
 
-[![Lego 21](IMG_2387-small.jpg)](IMG_2387-small.jpg)
-
 Erneut habe ich ein Lebensjahr hinter mich gebracht. Ein kleines Modell darf für diesen Anlass natürlich nicht fehlen.

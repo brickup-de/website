@@ -21,7 +21,6 @@ url: /2013/minion
 Gebaut wurde diese Skulptur an zwei aufeinander folgenden Wochenenden. Derzeit verbringe ich die Wochentage fernab meiner Legosammlung. Entsprechend bemühe ich mich, an den Wochenenden möglichst viele Ideen in die Tat umzusetzen.
 
 [![Seitenansicht der Skulptur](IMG_2489.jpg)](IMG_2489.jpg)
+[![Modell von hinten](IMG_2479.jpg)](IMG_2479.jpg)
 
 [![Peacezeichen im Halbprofil](IMG_2503.jpg)](IMG_2503.jpg)
-
-[![Modell von hinten](IMG_2479.jpg)](IMG_2479.jpg)

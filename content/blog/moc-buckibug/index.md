@@ -15,7 +15,9 @@ url: /2011/buckibug
 ---
 
 [![BuckiBug](DSCI0400.jpg)](DSCI0400.jpg)
-[![BuckiBug](DSCI0403.jpg)](DSCI0403.jpg)
 [![BuckiBug](DSCI0408.jpg)](DSCI0408.jpg)
+
 [![BuckiBug](DSCI0409.jpg)](DSCI0409.jpg)
 [![BuckiBug](DSCI0417.jpg)](DSCI0417.jpg)
+
+[![BuckiBug](DSCI0403.jpg)](DSCI0403.jpg)

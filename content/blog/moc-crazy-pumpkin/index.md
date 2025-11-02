@@ -16,4 +16,4 @@ title: Crazy Pumpkin
 url: /2011/crazy-pumpkin
 ---
 
-[![Verrückter Legokürbis](CrazyPumpkin.jpg)](CrazyPumpkin.jpg) Eine kleine Kreation zu Halloween. Es hat viel Spaß gemacht, mit der Beleuchtung zu experimentieren. Das Bild wurde nicht nachbearbeitet ... naja ok, ich habe es noch zugeschnitten ... aber sonst nicht ... ehrlich!
+Eine kleine Kreation zu Halloween. Es hat viel Spaß gemacht, mit der Beleuchtung zu experimentieren. Das Bild wurde nicht nachbearbeitet ... naja ok, ich habe es noch zugeschnitten ... aber sonst nicht ... ehrlich!

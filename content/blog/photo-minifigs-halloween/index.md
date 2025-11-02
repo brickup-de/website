@@ -14,7 +14,7 @@ title: Halloween-Minifigs
 url: /2017/halloween-minifigs
 ---
 
-### Grusel
+**Grusel**
 
 Ein Rascheln, ein Lachen  
 Ein Kichern im Wind  

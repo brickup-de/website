@@ -16,8 +16,6 @@ url: /2011/minifig-at-work
 
 Es ist Sommer in Deutschland - das Wetter ist schön und nichts kann einen mehr drinnen halten. Also habe ich mir ein paar Lego Minifiguren geschnappt, und ein kleines "Fotoshooting" im heimischen Garten durchgeführt.
 
-[![Bauarbeiter in Reih' und Glied](IMG_0248.jpg)](IMG_0248.jpg) Mir nach, Männer!
-
 [![Minifigur mit Säge](IMG_0231.jpg)](IMG_0231.jpg) Es kann sich nur um Stunden handeln ...
 
 [![Mutter trifft Schraubenschlüssel](IMG_0230.jpg)](IMG_0230.jpg) Die Großmutter macht Probleme ...

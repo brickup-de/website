@@ -18,9 +18,7 @@ url: /2009/quell-des-lebens
 ---
 
 [![Quell des Lebens](DSCI0003.jpg)](DSCI0003.jpg)
-
 [![Quell des Lebens](DSCI0022.jpg)](DSCI0022.jpg)
 
 [![Quell des Lebens](DSCI0021.jpg)](DSCI0021.jpg)
-
 [![Quell des Lebens](DSCI0026.jpg)](DSCI0026.jpg)
