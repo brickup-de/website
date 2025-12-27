@@ -4,7 +4,7 @@ title: Über mich
 url: /about
 ---
 
-Hi, mein Name ist Tobias Buckdahn und ich heiße Dich herzlich auf meiner Webseite willkommen. Hier teile ich vieles rund um meine Hobbys, die da wären:
+Hi, mein Name ist Tobias Buckdahn und ich heiße Dich herzlich auf dieser Webseite willkommen. Hier teile ich vieles rund um meine Hobbys, die da wären:
 
 ### LEGO Modellbau
 
