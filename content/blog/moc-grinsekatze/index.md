@@ -9,6 +9,7 @@ date: "2018-12-26"
 tags:
   - lego
   - skulptur
+  - tier
 title: Grinsekatze
 url: /2018/grinsekatze
 ---

@@ -12,6 +12,7 @@ tags:
   - legebild
   - lego
   - vignette
+  - rätsel
 title: Steine-Herbst
 url: /2017/steine-herbst
 ---

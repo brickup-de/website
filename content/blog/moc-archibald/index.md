@@ -10,6 +10,8 @@ date: "2017-10-31T16:08:50+00:00"
 tags:
   - lego
   - vignette
+  - halloween
+  - tier
 title: Happy Halloween!
 url: /2017/archibald
 ---

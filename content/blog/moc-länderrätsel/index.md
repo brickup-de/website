@@ -9,6 +9,7 @@ date: "2023-07-02"
 tags:
   - lego
   - vignette
+  - rätsel
 title: Länderrätsel
 url: /2023/länderrätsel
 ---

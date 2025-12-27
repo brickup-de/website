@@ -9,6 +9,7 @@ date: "2017-11-20T12:36:28+00:00"
 tags:
   - lego
   - vignette
+  - tier
 title: Bricking Safaria
 url: /2017/bricking-safaria
 ---

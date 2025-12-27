@@ -8,7 +8,8 @@ cover:
 date: "2024-09-16"
 tags:
   - lego
-  - skulptur
+  - vignette
+  - rätsel
 title: Comicfiguren
 url: /2024/comicfiguren
 ---

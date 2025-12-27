@@ -7,7 +7,8 @@ cover:
 date: "2025-09-27"
 tags:
   - lego
-  - skulptur
+  - vignette
+  - rätsel
 title: Plattencover
 url: /2025/plattencover
 ---

@@ -8,6 +8,7 @@ date: "2019-07-07"
 tags:
   - lego
   - vignette
+  - rätsel
 title: Literatur-Rätsel
 url: /2019/literatur
 ---

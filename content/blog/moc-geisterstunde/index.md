@@ -12,6 +12,7 @@ title: Geisterstunde
 tags:
   - lego
   - skulptur
+  - tier
 url: /2023/geisterstunde
 ---
 

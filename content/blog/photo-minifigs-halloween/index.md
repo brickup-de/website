@@ -10,6 +10,7 @@ date: "2017-10-22T17:56:15+00:00"
 tags:
   - lego
   - minifigur
+  - halloween
 title: Halloween-Minifigs
 url: /2017/halloween-minifigs
 ---
