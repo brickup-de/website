@@ -22,3 +22,5 @@ Hier ein weiterer Gastbeitrag meiner Mutter - Micky und Minnie Maus. Diese beide
 Da ich diese Lego-Skulpturen nicht selbst gebaut habe, kann ich leider wenig darüber berichten. Aber meine Idee war es, sie Händchen halten zu lassen ... immerhin :-D
 
 [![](IMG_3338.jpg)](IMG_3338.jpg) [![](IMG_3352.jpg)](IMG_3352.jpg)
+
+[![](schleife.jpg)](schleife.jpg)
