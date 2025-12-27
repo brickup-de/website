@@ -10,7 +10,7 @@ title: Kinderlieder
 url: /2022/kinderlieder
 ---
 
-Beim 11. Berliner [SteineWAHN!](https://steinewahn.de) gab es wieder eine gemeinsame Bauaktion. Dieses Mal mussten Kinderlieder auf einer 16x16-Platte dargestellt und durch die Besucher erraten werden. Meine Mutter hat acht Beiträge dafür gebaut - viel Spaß beim Rätseln.
+Beim 11. Berliner [SteineWAHN!](https://steinewahn.de) gab es wieder eine gemeinsame Bauaktion. Dieses Mal mussten Kinderlieder auf einer 16x16-Platte dargestellt und durch die Besucher erraten werden. Meine Mutter hat neun Beiträge dafür gebaut - viel Spaß beim Rätseln.
 
 ## 1. Rätsel
 [![](kinderlied-01.jpg)](kinderlied-01.jpg)
@@ -66,4 +66,11 @@ Alle meine Entchen
 
 {{< spoiler "Auflösung" >}}
 Fuchs, du hast die Gans gestohlen
+{{< /spoiler >}}
+
+## 9. Rätsel
+[![](kinderlied-09.jpg)](kinderlied-09.jpg)
+
+{{< spoiler "Auflösung" >}}
+Summ summ summ, Bienchen summ herum
 {{< /spoiler >}}
