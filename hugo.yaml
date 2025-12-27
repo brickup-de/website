@@ -35,7 +35,7 @@ taxonomies:
 
 menu:
   main:
-    - name: About
+    - name: Info
       url: about/
       weight: 10
     - name: Archiv
