@@ -45,40 +45,37 @@ function setGallery(el) {
   elements.forEach((element) => {
     element.classList.remove("gallery");
   });
-  if (el.closest("ul, p")) {
-    var link_elements = el
-      .closest("ul, p")
-      .querySelectorAll("a[class*='lightbox-']");
-    link_elements.forEach((link_element) => {
-      link_element.classList.remove("current");
-    });
-    link_elements.forEach((link_element) => {
-      if (el.getAttribute("href") == link_element.getAttribute("href")) {
-        link_element.classList.add("current");
-      }
-    });
-    if (link_elements.length > 1) {
-      document.getElementById("lightbox").classList.add("gallery");
-      link_elements.forEach((link_element) => {
-        link_element.classList.add("gallery");
-      });
+
+  var link_elements = document.body.querySelectorAll("a[class*='lightbox-']")
+  link_elements.forEach((link_element) => {
+    link_element.classList.remove("current");
+  });
+  link_elements.forEach((link_element) => {
+    if (el.getAttribute("href") == link_element.getAttribute("href")) {
+      link_element.classList.add("current");
     }
-    var currentkey;
-    var gallery_elements = document.querySelectorAll("a.gallery");
-    Object.keys(gallery_elements).forEach(function (k) {
-      if (gallery_elements[k].classList.contains("current")) currentkey = k;
-    });
-    if (currentkey == gallery_elements.length - 1) var nextkey = 0;
-    else var nextkey = parseInt(currentkey) + 1;
-    if (currentkey == 0) var prevkey = parseInt(gallery_elements.length - 1);
-    else var prevkey = parseInt(currentkey) - 1;
-    document.getElementById("next").addEventListener("click", function () {
-      gallery_elements[nextkey].click();
-    });
-    document.getElementById("prev").addEventListener("click", function () {
-      gallery_elements[prevkey].click();
+  });
+  if (link_elements.length > 1) {
+    document.getElementById("lightbox").classList.add("gallery");
+    link_elements.forEach((link_element) => {
+      link_element.classList.add("gallery");
     });
   }
+  var currentkey;
+  var gallery_elements = document.querySelectorAll("a.gallery");
+  Object.keys(gallery_elements).forEach(function (k) {
+    if (gallery_elements[k].classList.contains("current")) currentkey = k;
+  });
+  if (currentkey == gallery_elements.length - 1) var nextkey = 0;
+  else var nextkey = parseInt(currentkey) + 1;
+  if (currentkey == 0) var prevkey = parseInt(gallery_elements.length - 1);
+  else var prevkey = parseInt(currentkey) - 1;
+  document.getElementById("next").addEventListener("click", function () {
+    gallery_elements[nextkey].click();
+  });
+  document.getElementById("prev").addEventListener("click", function () {
+    gallery_elements[prevkey].click();
+  });
 }
 
 document.addEventListener("DOMContentLoaded", function () {

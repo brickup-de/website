@@ -78,6 +78,9 @@ params:
     disableHLJS: false # code highlighting
     disableFingerprinting: false # css integrity hashes
 
+  cover:
+    linkFullImages: true
+
   footer:
     text: "[Impressum](/impressum) | [Datenschutz](/datenschutz)"
 
