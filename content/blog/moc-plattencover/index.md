@@ -5,9 +5,9 @@ categories:
   - skulptur
 cover:
   image: cover.jpg
-date: "2024-09-16"
-title: Comicfiguren
-url: /2024/comicfiguren
+date: "2025-09-27"
+title: Plattencover
+url: /2025/plattencover
 ---
 
 Für den 13. Berliner SteineWAHN! gab es folgende Bauaktion: Baue ein bekanntes Plattencover auf einer Fläche von 16x16 Noppen nach. Viel Spaß beim Raten.

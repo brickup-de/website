@@ -4,7 +4,7 @@ categories:
   - lego
   - skulptur
 cover:
-  image: IMG_3361.jpg
+  image: cover.jpg
 date: "2024-09-16"
 title: Comicfiguren
 url: /2024/comicfiguren
