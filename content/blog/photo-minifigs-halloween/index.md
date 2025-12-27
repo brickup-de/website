@@ -1,15 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - minifigur
+colours:
+  - lila
+  - rot
 cover:
   alt: Jester im Wald
   image: IMG_3564.jpg
 date: "2017-10-22T17:56:15+00:00"
 tags:
-  - lila
-  - rot
+  - lego
+  - minifigur
 title: Halloween-Minifigs
 url: /2017/halloween-minifigs
 ---
@@ -24,7 +24,7 @@ die Geister geschwind.
 Sie tuscheln, sie raunen  
 Sie warten gespannt  
 Sie horchen, sie staunen  
-als Jubel entbrannt
+als Jubel entbrannt.
 
 Ihr Meister, er schreitet  
 breit grinsend vorbei.  

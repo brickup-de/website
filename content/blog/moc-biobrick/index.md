@@ -1,15 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - grün
+  - weiß
 cover:
   alt: BioBrick
   image: DSCI0001.jpg
 date: "2009-08-01T12:00:32+00:00"
 tags:
-  - grün
-  - weiß
+  - lego
+  - skulptur
 title: BioBrick
 url: /2009/biobrick
 ---

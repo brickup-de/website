@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - gelb
+  - rot
+  - weiß
 cover:
   alt: Jester
   image: 2011_08_07_0543.jpg
 date: "2011-08-08T13:51:00+00:00"
 tags:
-  - gelb
-  - rot
-  - weiß
+  - lego
+  - skulptur
 title: Jester
 url: /2011/jester
 ---

@@ -1,11 +1,15 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - beige
+  - grün
+  - orange
 cover:
   image: garten-01.jpg
 date: "2022-09-16"
+tags:
+  - lego
+  - skulptur
 title: Garten-Idylle
 url: /2022/garten
 ---

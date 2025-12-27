@@ -1,17 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - legebild
+colours:
+  - gelb
+  - rot
+  - schwarz
 cover:
   alt: Strahlung
   image: IMG_2200.jpg
 date: "2013-07-01T10:02:12+00:00"
 tags:
-  - gelb
+  - lego
+  - legebild
   - plate-bending
-  - rot
-  - schwarz
 title: Radioaktiv
 url: /2013/radioaktiv
 ---

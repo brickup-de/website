@@ -1,15 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - schwarz
+  - weiß
 cover:
   alt: Lego Gitarre
   image: DSCI0012.jpg
 date: "2009-08-01T15:00:57+00:00"
 tags:
-  - schwarz
-  - weiß
+  - lego
+  - skulptur
 title: Gitarre
 url: /2009/gitarre
 ---

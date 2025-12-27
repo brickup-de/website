@@ -1,18 +1,18 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
-cover:
-  alt: kABItän Buck
-  image: DSCI0662.jpg
-date: "2011-05-01T12:51:31+00:00"
-tags:
+colours:
   - blau
   - gelb
   - orange
   - schwarz
   - weiß
+cover:
+  alt: kABItän Buck
+  image: DSCI0662.jpg
+date: "2011-05-01T12:51:31+00:00"
+tags:
+  - lego
+  - skulptur
 title: kABItän Buck
 url: /2011/kabitaen-buck
 ---

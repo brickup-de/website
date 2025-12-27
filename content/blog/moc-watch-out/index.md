@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - rot
+  - schwarz
 cover:
   alt: Watch Out
   image: WatchOut.jpg
 date: "2013-08-01T09:21:46+00:00"
 tags:
+  - lego
+  - skulptur
   - plate-bending
-  - rot
-  - schwarz
 title: Watch out!
 url: /2013/watch-out
 ---

@@ -1,11 +1,16 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - blau
+  - gelb
+  - grün
+  - rot
 cover:
   image: baby-5.jpg
 date: "2025-09-27"
+tags:
+  - lego
+  - skulptur
 title: Disney Babies
 url: /2025/disney-babies
 ---

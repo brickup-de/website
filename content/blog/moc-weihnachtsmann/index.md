@@ -1,17 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - gelb
+  - rot
+  - weiß
 cover:
   alt: Weihnachtsmann
   image: DSCI0241.jpg
 date: "2010-12-24T11:32:56+00:00"
 tags:
-  - gelb
-  - rot
+  - lego
+  - skulptur
   - weihnachten
-  - weiß
 title: Weihnachtsmann
 url: /2010/weihnachtsmann
 ---

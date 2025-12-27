@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - blau
+  - gelb
+  - weiß
 cover:
   alt: Geburtstagskind
   image: Nineteen02.jpg
 date: "2011-09-22T14:25:54+00:00"
 tags:
-  - blau
-  - gelb
-  - weiß
+  - lego
+  - skulptur
 title: Geburtstagskind
 url: /2011/geburtstagskind
 ---

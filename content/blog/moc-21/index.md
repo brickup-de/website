@@ -1,17 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - legebild
+colours:
+  - grau
+  - rot
+  - schwarz
 cover:
   alt: "21"
   image: IMG_2387-small.jpg
 date: "2013-09-22T15:47:01+00:00"
 tags:
-  - grau
+  - lego
+  - legebild
   - plate-bending
-  - rot
-  - schwarz
 title: "21"
 url: /2013/einundzwanzig
 ---

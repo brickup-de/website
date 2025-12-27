@@ -1,17 +1,17 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - orange
+  - schwarz
+  - weiß
 cover:
   alt: Die Skelettons
   image: IMG_2408.jpg
 date: "2016-10-31T20:35:56+00:00"
 tags:
-  - blau
   - halloween
-  - schwarz
-  - weiß
+  - lego
+  - skulptur
 title: Die Skelettons
 url: /2016/skelettons
 ---

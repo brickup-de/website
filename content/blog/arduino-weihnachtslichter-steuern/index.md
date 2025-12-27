@@ -1,14 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - arduino
+colours:
+  - braun
+  - rot
 cover:
   alt: Christmas Lights Box
   image: box3.jpg
 date: "2024-11-16T00:16:30+00:00"
 tags:
-  - braun
-  - rot
+  - arduino
+  - coding
   - weihnachten
 title: Weihnachtslichter-Steuerung
 url: /2024/weihnachtslichter-steuerung

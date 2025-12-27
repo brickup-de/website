@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - blau
+  - gelb
+  - rot
 cover:
   alt: Weihnachtsminion
   image: IMG_2470.jpg
 date: "2013-11-17T16:56:35+00:00"
 tags:
-  - blau
-  - gelb
-  - rot
+  - lego
+  - skulptur
   - weihnachten
 title: Weihnachtsminion
 url: /2013/minion

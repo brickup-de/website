@@ -1,20 +1,19 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - gelb
+  - rot
+  - schwarz
 cover:
   alt: Deutschlandfahne
   image: DSCI0053.jpg
 date: "2010-06-01T12:18:02+00:00"
 tags:
-  - gelb
-  - rot
-  - schwarz
+  - lego
+  - skulptur
 title: Deutschlandfahne
 url: /2010/dfahne
 ---
-
 
 Eine Legoskulptur zur Fußball-Weltmeisterschaft 2010.
 

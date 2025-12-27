@@ -1,19 +1,19 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - gelb
+  - rot
+  - weiß
 cover:
   alt: Weihnachtsstern
   image: IMG_25591.jpg
 date: "2013-12-11T19:13:07+00:00"
 tags:
   - brick-bending
-  - gelb
+  - lego
   - plate-bending
-  - rot
+  - skulptur
   - weihnachten
-  - weiß
 title: Weihnachtsstern
 url: /2013/weihnachtsstern
 ---

@@ -1,18 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - legebild
-  - lego
-  - vignette
+colours:
+  - beige
+  - braun
+  - grün
 cover:
   alt: Suchspiel 2x4-Stein
   image: IMG_3502.jpg
 date: "2017-10-15T15:05:08+00:00"
 tags:
-  - beige
-  - braun
-  - gelb
-  - grün
+  - legebild
+  - lego
+  - vignette
 title: Steine-Herbst
 url: /2017/steine-herbst
 ---

@@ -1,15 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - gelb
+  - rot
 cover:
   alt: Secret Apple
   image: DSCI0042.jpg
 date: "2010-09-01T12:21:01+00:00"
 tags:
-  - gelb
-  - rot
+  - lego
+  - skulptur
 title: Secret Apple
 url: /2010/apple
 ---

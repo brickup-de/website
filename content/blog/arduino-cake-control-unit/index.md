@@ -1,9 +1,16 @@
 ---
 author: Tobias Buckdahn
+colours:
+  - schwarz
+  - weiß
 cover:
   alt: Cake Control Unit
   image: ccu.jpeg
 date: "2022-05-08T09:03:23+00:00"
+tags:
+  - arduino
+  - coding
+  - riddle
 title: Cake Control Unit
 url: /ccu
 ---

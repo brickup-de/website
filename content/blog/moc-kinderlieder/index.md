@@ -1,11 +1,14 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - vignette
+colours:
+  - schwarz
+  - weiß
 cover:
   image: cover.jpg
 date: "2022-05-21"
+tags:
+  - lego
+  - vignette
 title: Kinderlieder
 url: /2022/kinderlieder
 ---

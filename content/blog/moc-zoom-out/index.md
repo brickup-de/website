@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - minifigur
-  - vignette
+colours:
+  - blau
+  - braun
 cover:
   alt: Zoom out
   image: ZoomOut.jpg
 date: "2011-07-08T12:55:12+00:00"
 tags:
-  - blau
-  - braun
+  - lego
+  - minifigur
+  - vignette
 title: Zoom out
 url: /2011/zoom-out
 ---

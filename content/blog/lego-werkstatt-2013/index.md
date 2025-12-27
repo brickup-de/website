@@ -1,11 +1,14 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
+colours:
+  - blau
+  - rot
 cover:
   alt: Legozimmer
   image: IMG_20783.jpg
 date: "2013-07-13T16:41:48+00:00"
+tags:
+  - lego
 title: Die Legowerkstatt
 url: /2013/lego-werkstatt
 ---

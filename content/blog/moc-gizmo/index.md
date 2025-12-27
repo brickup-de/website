@@ -1,12 +1,16 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - grau
+  - braun
+  - beige
 cover:
   alt: Gizmo
   image: IMG_3405.jpg
 date: "2017-10-06T14:38:28+00:00"
+tags:
+  - lego
+  - skulptur
 title: Gizmo
 url: /2017/gizmo
 ---

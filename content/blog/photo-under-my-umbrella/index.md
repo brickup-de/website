@@ -1,17 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - fotografie
-  - lego
-  - minifigur
+colours:
+  - grau
+  - schwarz
+  - weiß
 cover:
   alt: Under my umbrella
   image: IMG_0369.jpg
 date: "2011-07-08T13:44:53+00:00"
 tags:
-  - grau
-  - schwarz
-  - weiß
+  - fotografie
+  - lego
+  - minifigur
 title: Under my umbrella
 url: /2011/under-my-umbrella
 ---

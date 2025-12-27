@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - blau
+  - gelb
+  - weiß
 cover:
   alt: Blaumann
   image: DSCI0002.jpg
 date: "2009-08-01T11:35:29+00:00"
 tags:
-  - blau
-  - gelb
-  - weiß
+  - lego
+  - skulptur
 title: Blaumann
 url: /2009/blaumann
 ---

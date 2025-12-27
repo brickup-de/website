@@ -1,15 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - roboter
+colours:
+  - gelb
+  - rot
 cover:
   alt: Ironman WIP
   image: 6785928616_174967e7a0_o.jpg
 date: "2012-02-08T14:30:43+00:00"
 tags:
-  - gelb
-  - rot
+  - lego
+  - roboter
 title: Projekt Ironman
 url: /2012/ironman
 ---

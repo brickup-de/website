@@ -1,11 +1,13 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - fotografie
+colours:
+  - weiß
 cover:
   alt: Schneewesen
   image: 20210103_103600-scaled.jpg
 date: "2021-01-03T20:31:11+00:00"
+tags:
+  - fotografie
 title: Schneewesen
 url: /2021/schnee
 ---

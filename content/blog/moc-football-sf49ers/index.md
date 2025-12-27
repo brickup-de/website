@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - braun
+  - rot
+  - weiß
 cover:
   alt: Football
   image: IMG_2447.jpg
 date: "2013-12-24T10:00:12+00:00"
 tags:
-  - braun
-  - rot
-  - weiß
+  - lego
+  - skulptur
 title: SF 49ers Football
 url: /2013/football
 ---

@@ -1,15 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - vignette
+colours:
+  - schwarz
+  - weiß
 cover:
   alt: Schwarzer Kater
   image: SchwarzerKater01.jpg
 date: "2017-01-19T19:15:43+00:00"
 tags:
-  - schwarz
-  - weiß
+  - lego
+  - tier
+  - vignette
 title: Schwarzer Kater
 url: /2017/schwarzer-kater
 ---

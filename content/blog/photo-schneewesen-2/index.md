@@ -1,11 +1,13 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - fotografie
+colours:
+  - weiß
 cover:
   alt: Schneewesen
   image: final_img_2152_edited.jpg
 date: "2021-01-30T14:16:23+00:00"
+tags:
+  - fotografie
 title: Schneewesen II
 url: /2021/schneewesen-ii
 ---

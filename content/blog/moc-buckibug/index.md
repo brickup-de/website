@@ -1,15 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - roboter
+colours:
+  - schwarz
+  - weiß
 cover:
   alt: BuckiBug
   image: DSCI0417.jpg
 date: "2011-01-01T12:36:30+00:00"
 tags:
-  - schwarz
-  - weiß
+  - lego
+  - roboter
 title: BuckiBug
 url: /2011/buckibug
 ---

@@ -1,11 +1,15 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - grün
+  - braun
+  - schwarz
 cover:
   image: picknick-1.jpg
 date: "2020-07-19"
+tags:
+  - lego
+  - skulptur
 title: Picknick im Grünen
 url: /2020/picknick
 ---

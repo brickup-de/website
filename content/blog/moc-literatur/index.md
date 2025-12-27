@@ -1,11 +1,13 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - vignette
+colours:
+  - gelb
 cover:
   image: cover.jpg
 date: "2019-07-07"
+tags:
+  - lego
+  - vignette
 title: Literatur-Rätsel
 url: /2019/literatur
 ---

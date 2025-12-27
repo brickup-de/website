@@ -1,18 +1,18 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
-cover:
-  alt: Quell des Lebens
-  image: DSCI0003.jpg
-date: "2009-08-01T13:00:21+00:00"
-tags:
+colours:
   - gelb
   - grün
   - orange
   - rot
   - weiß
+cover:
+  alt: Quell des Lebens
+  image: DSCI0003.jpg
+date: "2009-08-01T13:00:21+00:00"
+tags:
+  - lego
+  - skulptur
 title: Quell des Lebens
 url: /2009/quell-des-lebens
 ---

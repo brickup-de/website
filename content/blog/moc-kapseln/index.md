@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - fotografie
-  - lego
-  - vignette
+colours:
+  - gelb
+  - schwarz
 cover:
   alt: Kapsel_06
   image: Kapsel_06.jpg
 date: "2021-04-01T13:40:15+00:00"
 tags:
-  - gelb
-  - schwarz
+  - fotografie
+  - lego
+  - vignette
 title: Kapseln
 url: /2021/kapseln
 ---

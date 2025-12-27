@@ -1,11 +1,13 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - vignette
+colours:
+  - blau
 cover:
   image: cover.jpg
 date: "2021-09-19"
+tags:
+  - lego
+  - vignette
 title: Lieder raten
 url: /2021/liederrätsel
 ---

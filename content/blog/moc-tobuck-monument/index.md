@@ -1,14 +1,14 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - gelb
 cover:
   alt: Tobuck92
   image: DSCI0204.jpg
 date: "2009-04-01T11:25:15+00:00"
 tags:
-  - gelb
+  - lego
+  - skulptur
 title: Tobuck92 Monument
 url: /2009/tobuck92
 ---

@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - roboter
+colours:
+  - grau
+  - schwarz
+  - weiß
 cover:
   alt: MobilBot
   image: DSCI0068.jpg
 date: "2010-10-01T12:23:27+00:00"
 tags:
-  - grau
-  - schwarz
-  - weiß
+  - lego
+  - roboter
 title: MobilBot
 url: /2010/mobilbot
 ---

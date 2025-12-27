@@ -1,11 +1,19 @@
 ---
-author: Tobias Buckdahn
-categories:
-  - lego
-  - vignette
+author:
+  - Tobias Buckdahn
+  - Renate Buckdahn
+colours:
+  - blau
+  - orange
+  - grün
+  - beige
+  - rot
 cover:
   image: regenbogen-09.jpg
 date: "2024-09-13"
+tags:
+  - lego
+  - vignette
 title: Regenbogen-Allee
 url: /2024/regenbogenallee
 ---

@@ -1,16 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - gelb
+  - grün
+  - rot
+  - weiß
 cover:
   alt: Gärtner
   image: Gardener03.jpg
 date: "2012-02-08T13:33:08+00:00"
 tags:
-  - gelb
-  - grün
-  - rot
+  - lego
+  - skulptur
 title: Gärtner
 url: /2012/gaertner
 ---

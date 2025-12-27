@@ -1,17 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - rot
+  - weiß
 cover:
   alt: Weihnachtskugel
   image: Bild3.jpg
 date: "2012-12-24T16:15:50+00:00"
 tags:
   - brick-bending
-  - rot
+  - lego
+  - skulptur
   - weihnachten
-  - weiß
 title: Weihnachtskugel
 url: /2012/weihnachtskugel
 ---

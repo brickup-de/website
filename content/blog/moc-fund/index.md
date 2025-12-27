@@ -1,15 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - vignette
+colours:
+  - braun
+  - weiß
 cover:
   alt: Das Fundstück
   image: DSCI0486.jpg
 date: "2011-02-01T12:41:37+00:00"
 tags:
-  - braun
-  - weiß
+  - lego
+  - vignette
 title: Das Fundstück
 url: /2011/fund
 ---

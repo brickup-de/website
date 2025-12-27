@@ -1,17 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - beige
+  - weiß
 cover:
   alt: Brickbunny
   image: 8603256332_f77258bbc1_o.jpg
 date: "2013-03-30T16:24:44+00:00"
 tags:
-  - beige
+  - lego
   - ostern
+  - skulptur
   - tier
-  - weiß
 title: Brickbunny
 url: /2013/brickbunny
 ---

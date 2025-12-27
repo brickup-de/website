@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - gelb
+  - orange
+  - weiß
 cover:
   alt: Bricktower
   image: DSCI0006-2.jpg
 date: "2009-08-01T14:00:14+00:00"
 tags:
-  - gelb
-  - orange
-  - weiß
+  - lego
+  - skulptur
 title: BrickTower
 url: /2009/bricktower
 ---

@@ -1,11 +1,14 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - vignette
+colours:
+  - orange
+  - blau
 cover:
   image: cover.jpg
 date: "2020-07-19"
+tags:
+  - lego
+  - vignette
 title: Kinderserien
 url: /2020/kinderlieder
 ---

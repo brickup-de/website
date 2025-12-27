@@ -1,17 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - blau
+  - gelb
+  - orange
+  - weiß
 cover:
   alt: Orangenhaar
   image: DSCI0013.jpg
 date: "2010-10-01T12:27:55+00:00"
 tags:
-  - blau
-  - gelb
-  - orange
-  - weiß
+  - lego
+  - skulptur
 title: Orangenhaar
 url: /2010/orangenhaar
 ---

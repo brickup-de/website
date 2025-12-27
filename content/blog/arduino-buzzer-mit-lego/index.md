@@ -1,20 +1,20 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - arduino
-  - lego
-  - programmierung
-cover:
-  alt: LEGO Buzzer mit Arduino
-  image: buzzer_photo_4.jpg
-date: "2024-07-24T23:40:55+00:00"
-tags:
+colours:
   - blau
   - gelb
   - grün
   - rot
   - schwarz
   - weiß
+cover:
+  alt: LEGO Buzzer mit Arduino
+  image: buzzer_photo_4.jpg
+date: "2024-07-24T23:40:55+00:00"
+tags:
+  - arduino
+  - coding
+  - lego
 title: Arduino-LEGO-Buzzer
 url: /2024/arduino-lego-buzzer
 ---

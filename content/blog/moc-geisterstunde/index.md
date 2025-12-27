@@ -1,12 +1,17 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - braun
+  - grau
+  - schwarz
+  - weiß
 cover:
   image: geister-04.jpg
 date: "2023-10-08"
 title: Geisterstunde
+tags:
+  - lego
+  - skulptur
 url: /2023/geisterstunde
 ---
 

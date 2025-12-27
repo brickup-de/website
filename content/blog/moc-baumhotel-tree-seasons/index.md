@@ -1,19 +1,20 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - beige
+  - braun
+  - grün
 cover:
   alt: IMG_5889
   image: IMG_5889.jpg
 date: "2018-09-11T20:15:28+00:00"
 tags:
-  - beige
-  - braun
-  - grün
+  - lego
+  - skulptur
 title: Baumhotel "Tree Seasons"
 url: /2018/baumhotel-tree-seasons
 ---
+
 **Warum alleine bauen wenn es auch zu zweit geht?** Es war beim [6\. Berliner SteineWAHN!](https://www.steinewahn.de/) als Jana mit ihrer Idee für ein großes Lego-Modell auf mich zu kam. Sie hatte im Urlaub dieses schicke Holzbauwerk in einem Schaufenster entdeckt und wollte es gerne als MOC umsetzen.
 
 [![](IMG_6129.jpg)](IMG_6129.jpg) [![](IMG-20170827-WA0010.jpg)](IMG-20170827-WA0010.jpg)

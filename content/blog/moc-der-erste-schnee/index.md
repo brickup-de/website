@@ -1,11 +1,16 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - beige
+  - braun
+  - weiß
+  - rot
 cover:
   image: winter-1.jpg
 date: "2024-09-16"
+tags:
+  - lego
+  - skulptur
 title: Der erste Schnee
 url: /2024/der-erste-schnee
 ---

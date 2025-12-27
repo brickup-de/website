@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - braun
+  - weiß
 cover:
   alt: Lego Torte
   image: LegoTorte.jpg
 date: "2014-05-03T13:50:03+00:00"
 tags:
-  - braun
+  - lego
+  - skulptur
   - plate-bending
-  - weiß
 title: Kuchen
 url: /2014/kuchen
 ---

@@ -1,17 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - gelb
+  - rot
+  - schwarz
+  - weiß
 cover:
   alt: WM Deutschlandfan
   image: DSCI0146.jpg
 date: "2010-06-01T11:51:44+00:00"
 tags:
-  - gelb
-  - rot
-  - schwarz
-  - weiß
+  - lego
+  - skulptur
 title: WM Deutschlandfan
 url: /2010/wm-fan
 ---

@@ -1,14 +1,21 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - minifigur
-  - vignette
-  - fotografie
+colours:
+  - weiß
+  - schwarz
+  - grün
+  - blau
+  - rot
+  - gelb
 cover:
   alt: Kunterbunte Köpfe
   image: KunterbunteKoepfe.jpg
 date: "2017-08-05T22:07:52+00:00"
+tags:
+  - lego
+  - minifigur
+  - vignette
+  - fotografie
 title: SteineWAHN-Werbung
 url: /2017/steinewahn-werbung
 ---

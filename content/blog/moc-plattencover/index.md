@@ -1,11 +1,13 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - blau
 cover:
   image: cover.jpg
 date: "2025-09-27"
+tags:
+  - lego
+  - skulptur
 title: Plattencover
 url: /2025/plattencover
 ---

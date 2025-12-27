@@ -1,12 +1,14 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - vignette
+colours:
+  - grün
 cover:
   alt: Bricking Safaria
   image: BrickingSafaria_002.jpg
 date: "2017-11-20T12:36:28+00:00"
+tags:
+  - lego
+  - vignette
 title: Bricking Safaria
 url: /2017/bricking-safaria
 ---

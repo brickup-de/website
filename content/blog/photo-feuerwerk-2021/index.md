@@ -1,11 +1,13 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - fotografie
+colours:
+  - orange
 cover:
   alt: Feuerwerk
   image: img_1617.jpg
 date: "2020-12-31T23:08:00+00:00"
+tags:
+  - fotografie
 title: Feuerwerk
 url: /2021/feuerwerk
 ---

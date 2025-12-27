@@ -1,15 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - minifigur
+colours:
+  - orange
+  - rot
 cover:
   alt: Gänsemarsch
   image: IMG_0248.jpg
 date: "2011-07-08T13:02:29+00:00"
 tags:
-  - orange
-  - rot
+  - lego
+  - minifigur
 title: Minifiguren auf dem Bau
 url: /2011/minifig-at-work
 ---

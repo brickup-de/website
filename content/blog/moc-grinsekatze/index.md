@@ -1,11 +1,14 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - gelb
+  - rot
 cover:
   image: katze-1.jpg
 date: "2018-12-26"
+tags:
+  - lego
+  - skulptur
 title: Grinsekatze
 url: /2018/grinsekatze
 ---

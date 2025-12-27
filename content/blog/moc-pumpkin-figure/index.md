@@ -1,18 +1,18 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - orange
+  - rot
+  - schwarz
 cover:
   alt: Pumpkin Figure
   image: IMG_2399-2.jpg
 date: "2013-10-30T20:16:24+00:00"
 tags:
   - halloween
-  - orange
+  - lego
+  - skulptur
   - plate-bending
-  - rot
-  - schwarz
 title: Pumpkin Figure
 url: /2013/pumpkin-figure
 ---

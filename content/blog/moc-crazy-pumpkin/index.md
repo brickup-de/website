@@ -1,17 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - vignette
+colours:
+  - orange
+  - rot
+  - schwarz
 cover:
   alt: Crazy Pumpkin
   image: CrazyPumpkin.jpg
 date: "2011-10-08T14:29:08+00:00"
 tags:
   - halloween
-  - orange
-  - rot
-  - schwarz
+  - lego
+  - vignette
 title: Crazy Pumpkin
 url: /2011/crazy-pumpkin
 ---

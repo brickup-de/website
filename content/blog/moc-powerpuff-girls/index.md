@@ -1,11 +1,17 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - grün
+  - lila
+  - blau
+  - gelb
+  - orange
 cover:
   image: girls-08.jpg
 date: "2018-09-01"
+tags:
+  - lego
+  - skulptur
 title: Die Powerpuff Girls
 url: /2018/powerpuff-girls
 ---

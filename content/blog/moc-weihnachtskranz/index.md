@@ -1,17 +1,17 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - grün
+  - rot
+  - weiß
 cover:
   alt: Weihnachtskranz
   image: DSCI0358.jpg
 date: "2010-12-06T12:30:29+00:00"
 tags:
-  - grün
-  - rot
+  - lego
+  - skulptur
   - weihnachten
-  - weiß
 title: Weihnachtskranz
 url: /2010/weihnachtskranz
 ---

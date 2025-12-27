@@ -1,15 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - rot
+  - schwarz
 cover:
   alt: Schlange
   image: DSCI0568.jpg
 date: "2011-04-01T12:48:59+00:00"
 tags:
-  - rot
-  - schwarz
+  - lego
+  - skulptur
   - tier
 title: SnakeAttack
 url: /2011/snakeattack

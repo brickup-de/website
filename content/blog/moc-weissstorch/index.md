@@ -1,15 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - rot
+  - weiß
 cover:
   alt: Weißstorch
   image: IMG_2720_bearbeitet.jpg
 date: "2017-08-02T19:42:31+00:00"
 tags:
-  - rot
-  - weiß
+  - lego
+  - skulptur
+  - tier
 title: Weißstorch
 url: /2017/weissstorch
 ---

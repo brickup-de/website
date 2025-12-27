@@ -1,12 +1,16 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - blau
+  - gelb
+  - weiß
 cover:
   image: alice-2.jpg
 date: "2019-02-16"
 title: Alice im Wunderland
+tags:
+  - lego
+  - skulptur
 url: /2019/alice
 ---
 

@@ -1,11 +1,14 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - beige
+  - rot
 cover:
   image: cover.jpg
 date: "2024-09-16"
+tags:
+  - lego
+  - skulptur
 title: Comicfiguren
 url: /2024/comicfiguren
 ---

@@ -1,15 +1,15 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - braun
+  - gelb
 cover:
   alt: komplette Giraffe
   image: IMG_2873.jpg
 date: "2015-01-30T09:40:44+00:00"
 tags:
-  - braun
-  - gelb
+  - lego
+  - skulptur
   - tier
 title: Giraffe
 url: /2015/giraffe

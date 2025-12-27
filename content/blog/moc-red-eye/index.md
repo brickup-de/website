@@ -1,18 +1,18 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - rot
+  - schwarz
+  - weiß
 cover:
   alt: Red Eye
   image: RedEye.jpg
 date: "2011-09-08T13:53:45+00:00"
 tags:
+  - lego
   - brick-bending
   - plate-bending
-  - rot
-  - schwarz
-  - weiß
+  - skulptur
 title: Red Eye
 url: /2011/red-eye
 ---

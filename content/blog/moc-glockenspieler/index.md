@@ -1,16 +1,16 @@
 ---
 author: Tobias Buckdahn
-categories:
-  - lego
-  - programmierung
-  - roboter
+colours:
+  - schwarz
+  - weiß
 cover:
   alt: Screenshot-20230801210254-1910x1075_copy
   image: Screenshot-20230801210254-1910x1075_copy.jpg
 date: "2023-08-01T19:21:06+00:00"
 tags:
-  - schwarz
-  - weiß
+  - lego
+  - coding
+  - roboter
 title: Glockenspieler
 url: /2023/glockenspieler
 ---

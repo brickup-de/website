@@ -1,12 +1,16 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - lila
+  - schwarz
+  - beige
 cover:
   alt: Micky und Minnie
   image: IMG_3332.jpg
 date: "2017-10-06T13:59:34+00:00"
+tags:
+  - lego
+  - skulptur
 title: Micky & Minnie
 url: /2017/micky-minnie-maus
 ---

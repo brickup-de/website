@@ -1,12 +1,16 @@
 ---
 author: Renate Buckdahn
-categories:
-  - lego
-  - skulptur
+colours:
+  - blau
+  - gelb
+  - weiß
 cover:
   alt: Donald Duck
   image: IMG_3361.jpg
 date: "2017-10-06T14:27:39+00:00"
+tags:
+  - lego
+  - skulptur
 title: Donald Duck
 url: /2017/donald-duck
 ---
