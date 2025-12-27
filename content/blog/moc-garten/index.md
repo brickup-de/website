@@ -6,7 +6,7 @@ categories:
 cover:
   image: garten-01.jpg
 date: "2022-09-16"
-title: Garten
+title: Garten-Idylle
 url: /2022/garten
 ---
 
