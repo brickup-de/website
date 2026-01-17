@@ -35,12 +35,12 @@ taxonomies:
 
 menu:
   main:
-    - name: Info
-      url: about/
-      weight: 10
-    - name: Archiv
-      url: archiv/
-      weight: 20
+    - name: Tobias
+      url: /author/tobias-buckdahn/
+      weight: 13
+    - name: Renate
+      url: /author/renate-buckdahn/
+      weight: 16
     - name: Suche
       url: search/
       weight: 90

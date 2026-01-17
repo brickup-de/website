@@ -1,0 +1,13 @@
+<div id="search-landing">
+  {{- partial "term_list.html" site.Taxonomies.author -}}
+  <hr>
+  {{- partial "term_list.html" site.Taxonomies.tags -}}
+  <hr>
+  {{- partial "term_list.html" site.Taxonomies.colours -}}
+</div>
+
+<script>
+  document.getElementById('searchInput').addEventListener("input", (e) => {
+    document.getElementById('search-landing').toggleAttribute("hidden", e.target.value !== "");
+  });
+</script>
