@@ -1,10 +1,6 @@
 :root {
   --theme: rgb(255, 165, 49);
 }
-.dark {
-  --theme: rgb(155, 92, 10);
-}
-
 body {
   background: var(--theme) !important;
 }
