@@ -2,7 +2,7 @@ baseURL: https://brickup.de/
 title: brickup
 theme: ["hugo-video", "PaperMod"]
 
-languageCode: de
+locale: de
 defaultContentLanguage: de
 
 enableRobotsTXT: true
