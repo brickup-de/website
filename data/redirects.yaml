@@ -1,0 +1,79 @@
+# Alte URLs, die nach der Trennung von brickup.de umgezogen sind.
+#
+# Diese Liste ist abgeschlossen: Renates neue Beiträge bekommen URLs auf
+# ihrer eigenen Domain und tauchen hier nie auf.
+#
+# Gelesen von content/redirects/_content.gotmpl, gerendert von layouts/redirect.html.
+# Die RSS-Feeds unter /author/ liegen als statische Dateien in static/author/.
+
+# --- Renates Beiträge (21) ---
+- from: /2016/skelettons
+  to: https://renate.buckdahn.de/2016/skelettons
+- from: /2017/donald-duck
+  to: https://renate.buckdahn.de/2017/donald-duck
+- from: /2017/gizmo
+  to: https://renate.buckdahn.de/2017/gizmo
+- from: /2017/micky-minnie-maus
+  to: https://renate.buckdahn.de/2017/micky-minnie-maus
+- from: /2017/stitch
+  to: https://renate.buckdahn.de/2017/stitch
+- from: /2018/grinsekatze
+  to: https://renate.buckdahn.de/2018/grinsekatze
+- from: /2018/powerpuff-girls
+  to: https://renate.buckdahn.de/2018/powerpuff-girls
+- from: /2019/alice
+  to: https://renate.buckdahn.de/2019/alice
+- from: /2019/literatur
+  to: https://renate.buckdahn.de/2019/literatur
+- from: /2020/kinderlieder
+  to: https://renate.buckdahn.de/2020/kinderlieder
+- from: /2020/picknick
+  to: https://renate.buckdahn.de/2020/picknick
+- from: /2021/liederrätsel
+  to: https://renate.buckdahn.de/2021/liederr%C3%A4tsel
+- from: /2021/spongebob-in-space
+  to: https://renate.buckdahn.de/2021/spongebob-in-space
+- from: /2022/garten
+  to: https://renate.buckdahn.de/2022/garten
+- from: /2022/kinderlieder
+  to: https://renate.buckdahn.de/2022/kinderlieder
+- from: /2023/geisterstunde
+  to: https://renate.buckdahn.de/2023/geisterstunde
+- from: /2023/länderrätsel
+  to: https://renate.buckdahn.de/2023/l%C3%A4nderr%C3%A4tsel
+- from: /2024/comicfiguren
+  to: https://renate.buckdahn.de/2024/comicfiguren
+- from: /2024/der-erste-schnee
+  to: https://renate.buckdahn.de/2024/der-erste-schnee
+- from: /2025/disney-babies
+  to: https://renate.buckdahn.de/2025/disney-babies
+- from: /2025/plattencover
+  to: https://renate.buckdahn.de/2025/plattencover
+
+# --- Autoren-Taxonomie, entfernt (13) ---
+- from: /author
+  to: https://brickup.de/
+- from: /author/renate-buckdahn
+  to: https://renate.buckdahn.de/
+- from: /author/renate-buckdahn/page/1
+  to: https://renate.buckdahn.de/
+- from: /author/renate-buckdahn/page/2
+  to: https://renate.buckdahn.de/
+- from: /author/renate-buckdahn/page/3
+  to: https://renate.buckdahn.de/
+- from: /author/tobias-buckdahn
+  to: https://brickup.de/
+- from: /author/tobias-buckdahn/page/1
+  to: https://brickup.de/
+- from: /author/tobias-buckdahn/page/2
+  to: https://brickup.de/
+- from: /author/tobias-buckdahn/page/3
+  to: https://brickup.de/
+- from: /author/tobias-buckdahn/page/4
+  to: https://brickup.de/
+- from: /author/tobias-buckdahn/page/5
+  to: https://brickup.de/
+- from: /author/tobias-buckdahn/page/6
+  to: https://brickup.de/
+- from: /author/tobias-buckdahn/page/7
+  to: https://brickup.de/

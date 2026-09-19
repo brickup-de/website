@@ -27,3 +27,7 @@
 {{- with resources.Get "js/lightbox.js" -}}
 <script type="text/javascript" src="{{ .RelPermalink }}"></script>
 {{- end -}}
+
+{{- with resources.Get "js/hidden.js" -}}
+<script type="text/javascript" src="{{ .RelPermalink }}"></script>
+{{- end -}}

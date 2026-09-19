@@ -1,0 +1,21 @@
+{{/*
+  Erzeugt für jeden Eintrag in data/redirects.yaml eine Weiterleitungsseite
+  unter der alten URL.
+
+  Wichtig: "url" muss ein Schlüssel auf oberster Ebene sein. Steht es in
+  "params", landen die Seiten unter /redirects/... statt unter der alten URL.
+
+  "list: never" hält die Seiten aus Listen, RSS-Feeds und sitemap.xml heraus,
+  "render: always" lässt sie trotzdem unter ihrer URL entstehen.
+*/}}
+{{ range hugo.Data.redirects }}
+  {{ $.AddPage (dict
+      "path"   .from
+      "url"    .from
+      "title"  "Umgezogen"
+      "kind"   "page"
+      "layout" "redirect"
+      "params" (dict "redirectTo" .to)
+      "build"  (dict "list" "never" "render" "always")
+  ) }}
+{{ end }}

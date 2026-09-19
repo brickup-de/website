@@ -19,7 +19,7 @@ url: /2013/football
 
 [![Rückseite der Footballform](IMG_2458.jpg)](IMG_2458.jpg)
 
-Da ich von Football so gut wie nichts wusste (außer, dass der gleichnamige Ball nicht rund ist), bekam ich zunächst ein paar Referenzbilder und -maße zugeschickt. Anschließend begann ich mit den Vorbereitungen und dem Bau. Die braunen Steine besaß ich glücklicherweise bereits aufgrund meines [Giraffenprojektes](/2013/giraffe/ "Giraffe"), sodass insgesamt nur wenige Steine fehlten.
+Da ich von Football so gut wie nichts wusste (außer, dass der gleichnamige Ball nicht rund ist), bekam ich zunächst ein paar Referenzbilder und -maße zugeschickt. Anschließend begann ich mit den Vorbereitungen und dem Bau. Die braunen Steine besaß ich glücklicherweise bereits aufgrund meines [Giraffenprojektes](/2015/giraffe/ "Giraffe"), sodass insgesamt nur wenige Steine fehlten.
 
 [![Vorderansicht mit Logo aus Lego](IMG_2456.jpg)](IMG_2456.jpg)
 

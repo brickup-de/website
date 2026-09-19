@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autoren (umgezogen)</title>
+    <link>https://brickup.de/</link>
+    <description>Dieser Feed ist umgezogen.</description>
+    <language>de</language>
+    <lastBuildDate>Sat, 19 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://brickup.de/author/index.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dieser Feed ist umgezogen</title>
+      <link>https://brickup.de/index.xml</link>
+      <guid isPermaLink="false">umzug-2026-author</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+      <description><![CDATA[<p>Die Autoren-Übersicht wurde abgeschafft.</p><p>Neuer Feed: <a href="https://brickup.de/index.xml">https://brickup.de/index.xml</a></p>]]></description>
+    </item>
+  </channel>
+</rss>

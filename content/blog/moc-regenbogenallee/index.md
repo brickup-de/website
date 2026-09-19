@@ -1,7 +1,5 @@
 ---
-author:
-  - Tobias Buckdahn
-  - Renate Buckdahn
+author: Tobias Buckdahn
 colours:
   - blau
   - orange

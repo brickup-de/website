@@ -28,19 +28,11 @@ outputs:
     - JSON
 
 taxonomies:
-  author: author
-  category: categories
   tag: tags
   colour: colours
 
 menu:
   main:
-    - name: Tobias
-      url: /author/tobias-buckdahn/
-      weight: 13
-    - name: Renate
-      url: /author/renate-buckdahn/
-      weight: 16
     - name: Suche
       url: search/
       weight: 90
@@ -85,7 +77,7 @@ params:
     text: "[Impressum](/impressum) | [Datenschutz](/datenschutz)"
 
   homeInfoParams:
-    Title: "Familie Buckdahn"
+    Title: "Tobias Buckdahn"
     Content: >
       Kreativität, IT und Selbstironie - viel Spaß beim Stöbern :)
 
