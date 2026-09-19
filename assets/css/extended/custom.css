@@ -94,6 +94,12 @@ a.lightbox-image {
   background: var(--entry);
 }
 
+#search-landing hr {
+  border-color: var(--tertiary);
+  border-style: solid;
+  margin-top: var(--content-gap);
+}
+
 .footer {
   color: var(--primary);
 }
