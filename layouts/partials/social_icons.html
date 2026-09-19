@@ -2,7 +2,11 @@
     {{- range site.Params.socialIcons }}
     <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
         title="{{ (.title | default .name) }}">
+        {{- if eq (trim .name " " | lower) "brickcamp" }}
+        {{ partial "svg_brickcamp.html" . }}
+        {{- else }}
         {{ partial "svg.html" . }}
+        {{- end }}
     </a>
     {{- end }}
 </div>
