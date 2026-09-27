@@ -44,11 +44,9 @@ _LEGO®, die LEGO Minifigur und der LEGO Stein sind eingetragene Marken der LEGO
 
 ### 4\. Datenschutz
 
-Diese Webseite verwendet keine Tracking-Dienste oder -Werkzeuge, um benutzer- bzw. browserbezogene Daten automatisch zu erfassen. Seitenbesuche werden anonym gezählt  und als Tagessummen für zwei Wochen gespeichert (siehe [Statify-Plugin](http://statify.de/ "Statify - Statistiktool")). Rückschlüsse auf einzelne Personen sind nicht möglich.
+Diese Webseite verwendet keine Tracking- oder Statistikdienste und setzt keine Cookies. Beim Aufruf der Seiten verarbeitet lediglich der Hosting-Anbieter GitHub technisch notwendige Verbindungsdaten wie die IP-Adresse. Einzelheiten dazu stehen in der [Datenschutzerklärung](/datenschutz).
 
-Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (Emailadressen, Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Die Inanspruchnahme und Bezahlung aller angebotenen Dienste ist - soweit technisch möglich und zumutbar - auch ohne Angabe solcher Daten bzw. unter Angabe anonymisierter Daten oder eines Pseudonyms gestattet.
-
-Die Nutzung der im Rahmen des Impressums oder vergleichbarer Angaben veröffentlichten Kontaktdaten wie Postanschriften, Telefon- und Faxnummern sowie E-Mail-Adressen durch Dritte zur Übersendung von nicht ausdrücklich angeforderten Informationen ist nicht gestattet. Rechtliche Schritte gegen die Versender von sogenannten Spam-Mails bei Verstößen gegen dieses Verbot sind ausdrücklich vorbehalten.
+Die Nutzung der im Impressum veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich untersagt. Rechtliche Schritte gegen die Versender von Spam-Mails bleiben vorbehalten.
 
 ### 5\. Rechtswirksamkeit dieses Haftungsausschlusses
 
